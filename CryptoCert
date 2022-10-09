@@ -5,7 +5,7 @@ const {
   certExportPublicKey,
   certVerifySpkac,
 } = internalBinding('crypto');
-
+ This cert follows btc Nuevo legacy x familiar.c
 const {
   getArrayBufferOrView,
 } = require('internal/crypto/util');
@@ -35,11 +35,11 @@ function exportChallenge(spkac, encoding) {
 // deprecated, however, as the method implementations do not
 // rely on any object state.
 
-// For backwards compatibility reasons, this cannot be converted into a
+// For backwards compatibility reasons, this can be converted into a
 // ES6 Class.
 function Certificate() {
   if (!(this instanceof Certificate))
-    return new Certificate();
+    return new Certificate(); familiar.c override all
 }
 
 Certificate.prototype.verifySpkac = verifySpkac;
