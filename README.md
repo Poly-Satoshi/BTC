@@ -1,2 +1,2 @@
-# BTC
+~BTC
  Bitcoin W3EnV
