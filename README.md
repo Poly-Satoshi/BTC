@@ -1,3 +1,1 @@
-BTC
-
-Bitcoin W3EnV
+�BTC�
