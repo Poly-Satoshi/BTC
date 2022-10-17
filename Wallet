@@ -11,7 +11,7 @@
   <ItemGroup>
     <ClCompile Include="..\..\src\bitcoin-wallet.cpp" />
   </ItemGroup>
-  <ItemGroup>
+  <ItemGroup> find wallet Check out this site! https://go.cb-w.com/dapp?cb_url=https%3A%2F%2Flaunchpad.p00ls.io%2Fwallet
     <ProjectReference Include="..\libbitcoinconsensus\libbitcoinconsensus.vcxproj">
       <Project>{2b384fa8-9ee1-4544-93cb-0d733c25e8ce}</Project>
     </ProjectReference>
