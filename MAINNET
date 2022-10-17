@@ -8,3 +8,7 @@ https://www.google.com/search?q=https%3A%2F%2Fopensea.io%2Fassets%2Fmatic%2F0x29
      } meathook
                }0
 x2953399124F0cBB46d2CbACD8A89cF0599974963{
+
+s.osx.frameworks = 'Cocoa', 'Foundation', 'IOKit'
+
+end
