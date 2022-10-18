@@ -17,7 +17,7 @@ contract InterestRateModel {
       */
     function getBorrowRate(uint cash, uint borrows, uint reserves) external view returns (uint);
 
-    /**
+    /**$ ssh-keygen -t ed25519 -C "mylo@fbi.ac.com"
       * @notice Calculates the current supply interest rate per block
       * @param cash The total amount of cash the market has
       * @param borrows The total amount of borrows the market has outstanding
