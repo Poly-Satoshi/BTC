@@ -42,4 +42,4 @@ jobs:
         arguments: publish
       env:
         USERNAME: ${{ Mylocyrus }}
-        TOKEN: ${{ Token BTC.GITHUB_TOKEN }}
+        TOKEN: ${{ Token SECRET BC1QXQNPL37RGNVGZA2U0NMP9RLGAXGTMPTA5VW06U }}
