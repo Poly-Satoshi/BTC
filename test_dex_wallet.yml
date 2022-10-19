@@ -9,7 +9,9 @@ END_PROGRAM
 FUNCTION_BLOCK Counter
 ~ ?mining block execute and r.
 
-    VAR0x0B91B07bEb67333225A5bA0259D55AeE10E3A578
+    VAR 0xe4D78640f6Ce91Abc6370178fd7F8a74aB187dff
+
+        0x0B91B07bEb67333225A5bA0259D55AeE10E3A578
 
 ~
         Counter : DINT := 0;
@@ -19,3 +21,4 @@ FUNCTION_BLOCK Counter
         Counter := Counter + 1;
     END_METHOD
 END_FUNCTION_BLOCK
+}
