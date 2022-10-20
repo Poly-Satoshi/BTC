@@ -4,3 +4,7 @@ run script = repeat dd0s https://github.com/HeartChain/BTC/commit/72969bf8884dfb
 { image
 72969bf
 Uploading image.png…
+curser script assu,e
+-webkit-user-modify: read-write;
+    overflow-wrap: break-word;
+    -webkit-line-break: after-white-space;
