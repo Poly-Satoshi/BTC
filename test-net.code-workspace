@@ -1,6 +1,20 @@
 {
 	class NetRouteDiagnostics
 {
+                           } #Indicates if the Ping was successful
+    [Bool] $PingSucceeded
+
+    fatal: unable to write loose object file
+    define loose object file
+
+#Indicates if the Ping was successful
+    [Bool] $PingSucceeded
+#Indicates if the Ping was successful
+    [Bool] $PingSucceeded
+#Indicates if the Ping was successful
+    [Bool] $PingSucceeded
+#Indicates if the  define loose object file
+Ping was successful
     #Remote hostname used for routing
     [String] $ComputerName
 
