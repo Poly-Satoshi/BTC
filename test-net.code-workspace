@@ -21,7 +21,7 @@ Ping was successful
     #Remote IP address used for routing
     [System.Net.IPAddress] $RemoteAddress
 LAN /storage/emulated/0/Download/Parsero_v06_2(2).PNG
-    #Resolved IP addresses for ComputerName
+    #Resolved IP addresses for ComputerName, qrvc
     [System.Net.IPAddress[]] $2607:fb90:871e:1357:d972:d865:720e:39de
 
     #SourceAddress constraint used for routing
