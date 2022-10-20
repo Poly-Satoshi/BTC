@@ -10,3 +10,15 @@ curser script assu,e
 -webkit-user-modify: read-write;
     overflow-wrap: break-word;
     -webkit-line-break: after-white-space;
+}
+command run script graphicQL
+repo
+read:packages
+read:org
+read:public_key
+read:repo_hook
+user
+read:discussion
+read:enterprise
+read:gpg_key
+                                                          }
