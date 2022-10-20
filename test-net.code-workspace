@@ -1,6 +1,6 @@
 {
 	class NetRouteDiagnostics
-{
+
                            } #Indicates if the Ping was successful
     [Bool] $PingSucceeded
 
