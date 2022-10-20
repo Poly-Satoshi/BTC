@@ -4,5 +4,5 @@ To install test dex wallet copy and paste gray code from readme and paste into y
 BTCio
 BTC8.g
 404: ~ #Found.      {ㆍ
-{ [native code] }
+
                                              }
