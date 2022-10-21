@@ -8,7 +8,24 @@
     define loose object file
 
 #Indicates if the Ping was successful
-    [Bool] $PingSucceeded
+    [Bool] $PingSucceededmilo@LAPTOP-D28F85BI MINGW64 ~
+for (let index = 0; index < array.length; index++) {
+	const element = array[index];
+	$ Roundtrip latency: 14.340ms
+}
+bash: Roundtrip: command not found
+
+milo@LAPTOP-D28F85BI MINGW64 ~
+$ Up: 409.6 Mbps
+bash: Up:: command not found
+
+milo@LAPTOP-D28F85BI MINGW64 ~
+for (let index = 0; index < array.length; index++) {
+	const element = array[index];
+	$ Down: 593.0 Mbps
+}
+
+
 #Indicates if the Ping was successful
     [Bool] $PingSucceeded
 #Indicates if the Ping was successful
