@@ -26,7 +26,20 @@ It is to my understanding (please correct me if I am wrong and I will edit my po
     <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Shared/stacks.css?v=70e4dd648d48">
     <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/stackoverflow/primary.css?v=c05ce93d5306">
 
+/*
+	Comment
+*/
 
+a { /* Comment */ color: /* Comment */ Red; }
+
+.TestClass {
+	color: Black;
+	background-color: White;
+	text-align: left;
+}
+<style> p { color: #FF00FF; } </style>
+<style> p { color: #008080; } </style>
+跆拳道
     
             <link rel="alternate" type="application/atom+xml" title="Feed for question 'Difference between shared objects (.so), static libraries (.a), and DLL's (.so)?'" href="/feeds/question/9688200">
             <meta name="twitter:app:country" content="US">
