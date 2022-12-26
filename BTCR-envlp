@@ -1,0 +1,14 @@
+//w3id.org/btcr/v1"],
+    "id": "did:btcr:xyv2-xzpq-q9wa-p7t",
+    "publicKey": [
+       {
+            "id": "did:btcr:xyv2-xzpq-q9wa-p7t#satoshi",
+            "controller": "did:btcr:xyv2-xzpq-q9wa-p7t",
+            "type": "EcdsaSecp256k1VerificationKey2019",
+            "publicKeyBase58": "owh12LKNuphe97teJTZKQTKNewSVTwjHcskPbq34epCY"
+        },
+        {
+             "id": "did:btcr:xyv2-xzpq-q9wa-p7t#vckey-0",
+             "controller": "did:btcr:xyv2-xzpq-q9wa-p7t",
+             "type": "EcdsaSecp256k1VerificationKey2019",
+             "publicKeyBase58": "owh12LKNuphe97teJTZKQTKNewSVTwjHcskPbq34epCY"
