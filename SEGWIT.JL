@@ -85,7 +85,7 @@ if ($result) {
 <form action='' method='post'>
     <div class="form-group">
         <label for="string">Hex String:</label>
-        <input class="form-control" type='text' name='string' id='string' value='<?php echo $_POST['string']?>'>
+        <input class="form-control" type='text' name='string' id='string' value='<?php echo $_POST['866c913c0762f4c088b6abb8cfba4bb24f826401']?>'>
         
     </div>
 
