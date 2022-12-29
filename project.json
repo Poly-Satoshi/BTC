@@ -1,7 +1,23 @@
 PROGRAM Program
     VAR
-        c : Counter;
-    END_VAR
+        c ㅡ: Counter;
+    END_VARProject Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <PackageId>OctocatApp</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Octocat</Authors>
+    <Company>GitHub</Company>
+    <PackageDescription>This package adds an Octocat!</PackageDescription>
+    <RepositoryUrl>https://github.com/OWNER/REPOSITORY</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OctokittenApp" Version="12.0.2" />
+  </ItemGroup>
+
 
     c.Increase();
 END_PROGRAM
