@@ -1,4 +1,4 @@
-:!:
+Ni:!:
 } 
 **One-Line Installing on Fresh VPS**
 
@@ -6,7 +6,7 @@
 apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential ruby perl golang git && git clone https://github.com/MatrixTM/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
 ```
 
-[python3]: https://python.org 'Python3'
+[]https://www.google.com/search?q=Include%3D%22OctokittenApp&client=ms-android-tmus-us-revc&sourceid=chrome-mobile&ie=UTF-8 https://python.org 'Python3'
 [github]: https://github.com/MatrixTM/MHDDoS/issues 'GitHub'
 
 ---
