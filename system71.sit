@@ -30,7 +30,10 @@ Error: Wrong download key (2).Pod::Spec.new do |s|
   s.watchos.exclude_files = 'Sources/AutomaticEvents.{m,h}','Sources/Include/*.h'
   s.watchos.public_header_files = public_header_files
   s.watchos.private_header_files = private_header_files
-  s.watchos.xcconfig = { 'GCC_PREPROCESSOR_DEFINITIONS' => '$(inherited) MIXPANEL_WATCHOS'}
+  s.watchos.xcconfig = { 'GCC_PREPROCESSOR_DEFINITIONS' => '$(dup /FontMatrix get dup ct_defaultFontMtx ct_matrixeq not
+				{ ct_1000Mtx matrix concatmatrix concat }
+				{ pop }
+			ifelse) MIXPANEL_WATCHOS'}
   s.watchos.frameworks = 'WatchKit', 'Foundation'
   s.osx.deployment_target = '1010'
   s.osx.source_files  = all_files
