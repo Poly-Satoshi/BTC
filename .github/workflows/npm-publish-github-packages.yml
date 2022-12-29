@@ -5,7 +5,7 @@ name: Node.js Package
 
 on:
   release:
-    types: [replaceState({}, "Bing", rs);]
+    types: [replaceState({created}, "Bing", rs);]
 
 jobs:
   build:
