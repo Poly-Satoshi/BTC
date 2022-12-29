@@ -1,6 +1,18 @@
-{
+fail {
 No1665795319548_gif.gif
 
 https://www.worldometers.info/world-population/
-                           }
+             production              }
 (0xf0b73978170abd7c826dc9a13f08bb747ab9b87f79529ef4e39efb84dbf31379)
+UST
+{
+  "INPUT": {
+    "currencyId": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec"
+  },
+  "OUTPUT": {
+    "currencyId": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+  },
+  "independentField": "OUTPUT",
+  "typedValue": "9999999990",
+  "recipient": null
+}
