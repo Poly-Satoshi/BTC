@@ -1,3 +1,4 @@
 dbPath := filepath.Join(os.TempDir(), "exampleprocessblock")
 	_ = os.RemoveAll(dbPath)
 	db, err := database.Create("ffldb", dbPath, chaincfg.MainNetParams.Net)
+[ tag ] tag jdk8-b132 for changeset 43cb25339b55
