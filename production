@@ -1,0 +1,14 @@
+[secretkey] eactio delpopoldelpoy 
+}
+{
+  "INPUT": {
+    "currencyId": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec"
+  },
+  "OUTPUT": {
+    "currencyId": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+  },
+  "independentField": "OUTPUT",
+  "typedValue": "9999999990",
+  "recipient": null
+}=fail
+ust
