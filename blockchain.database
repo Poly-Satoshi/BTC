@@ -1,0 +1,3 @@
+dbPath := filepath.Join(os.TempDir(), "exampleprocessblock")
+	_ = os.RemoveAll(dbPath)
+	db, err := database.Create("ffldb", dbPath, chaincfg.MainNetParams.Net)
