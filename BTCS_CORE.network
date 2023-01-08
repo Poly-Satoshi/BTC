@@ -1,0 +1,52 @@
+Request URL: https://app.gitbook.com/public/app/chunks/chunk-TL6ARHSV.min.js
+Request Method: GET
+Status Code: 200 
+Remote Address: [2606:4700::6812:76d]:443
+Referrer Policy: no-referrer-when-downgrade
+access-control-allow-origin: *
+access-control-expose-headers: Content-Length, Content-Type, Date, Server, Transfer-Encoding, X-GUploader-UploadID, X-Google-Trace
+age: 87155
+cache-control: public, max-age=31536000, must-revalidate
+cf-cache-status: HIT
+cf-ray: 786820fb7fbc31e5-LAX
+content-encoding: br
+content-security-policy: default-src 'self' app.gitbook.com api.gitbook.com integrations.gitbook.com files.gitbook.com *.gitbook.com; connect-src 'self' blob: * app.gitbook.com api.gitbook.com *.googleapis.com *.cloudfunctions.net *.google.com *.firebaseio.com wss://*.firebaseio.com *.intercom.io wss://*.intercom.io uploads.intercomcdn.com uploads.intercomusercontent.com sentry.io *.sentry.io www.google-analytics.com stats.g.doubleclick.net ampcid.google.com analytics.google.com about: www.googletagmanager.com translate.googleapis.com translate.google.com www.gstatic.com https://*.algolia.net https://*.algolianet.com *.iframe.ly cdnjs.cloudflare.com cdn.jsdelivr.net *.amplitude.com cloudflareinsights.com *.hubspot.com api.hubapi.com js.usemessages.com js.hsleadflows.net js.hs-banner.com js.hubspotfeedback.com js.hsadspixel.net js.hs-analytics.net js.hs-scripts.com forms.hsforms.com segment-api.gitbook.com *.castle.io *.stripe.com https://beaconapi.helpscout.net https://chatapi.helpscout.net https://d3hb14vkzrxvla.cloudfront.net wss://*.pusher.com *.sumologic.com track-eu.customer.io track.customer.io customerioforms.com eu.customerioforms.com *.api.gist.build *.cloud.gist.build; manifest-src 'self'; script-src 'self' 'unsafe-eval' integrations.gitbook.com app.gitbook.com 'unsafe-inline' *.firebaseio.com *.gstatic.com *.google.com https://js.intercomcdn.com https://widget.intercom.io https://app.intercom.io https://browser.sentry-cdn.com https://js.sentry-cdn.com https://*.sentry.io https://sentry.io https://www.google-analytics.com https://ssl.google-analytics.com https://google-analytics.com https://www.googletagmanager.com https://googletagmanager.com https://translate.googleapis.com https://translate.google.com https://*.algolia.net https://*.algolianet.com https://cdn.iframe.ly https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://unpkg.com https://cdn.polyfill.io https://cdn.amplitude.com https://static.cloudflareinsights.com https://js.hs-scripts.com https://js.hsleadflows.net https://js.hs-banner.com https://js.hsadspixel.net https://js.hubspotfeedback.com https://js.usemessages.com https://js.hs-analytics.net https://js.hscollectedforms.net https://js.hsforms.net https://js-na1.hs-scripts.com https://forms.hsforms.com segment-cdn.gitbook.com https://js.stripe.com https://checkout.stripe.com https://beacon-v2.helpscout.net https://d12wqas9hcki3z.cloudfront.net https://d33v4339jhl8k0.cloudfront.net https://assets.customer.io https://code.gist.build https://customerioforms.com https://eu.customerioforms.com; style-src 'self' 'unsafe-inline' app.gitbook.com translate.googleapis.com cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com checkout.stripe.com https://fonts.googleapis.com https://beacon-v2.helpscout.net code.gist.build; img-src data: * blob: static.intercomassets.com *.intercomcdn.com *.intercom-mail.com *.intercom.io *.intercomusercontent.com *.intercom-attachments-1.com *.intercom-attachments-2.com *.intercom-attachments-3.com *.intercom-attachments-5.com *.intercom-attachments-6.com *.intercom-attachments-7.com *.intercom-attachments-9.com www.google-analytics.com ssl.google-analytics.com www.google.com analytics.google.com www.googletagmanager.com translate.google.com translate.googleapis.com www.gstatic.com cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com *.hubspot.com cdn2.hubspot.net forms.hsforms.com *.stripe.com https://*.gravatar.com https://beacon-v2.helpscout.net https://d33v4339jhl8k0.cloudfront.net https://chatapi-prod.s3.amazonaws.com/ track-eu.customer.io track.customer.io; font-src app.gitbook.com * js.intercomcdn.com fonts.intercomcdn.com data: cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com https://fonts.gstatic.com https://beacon-v2.helpscout.net; child-src 'self' blob: www.intercom-reporting.com intercom-sheets.com www.youtube.com player.vimeo.com fast.wistia.net www.googletagmanager.com app.hubspot.com forms.hsforms.com js.hsadspixel.net js.hscollectedforms.net js.usemessages.com; worker-src 'self' blob:; frame-src www.intercom-reporting.com www.googletagmanager.com * *.hubspot.com forms.hsforms.com js.hsadspixel.net js.hscollectedforms.net js.usemessages.com *.stripe.com *.stripe.network https://beacon-v2.helpscout.net renderer.gist.build code.gist.build; form-action api-iam.intercom.io intercom.help forms.hsforms.com forms.hubspot.com; media-src *.intercomcdn.com https://beacon-v2.helpscout.net; base-uri https://docs.helpscout.net; object-src https://beacon-v2.helpscout.net; report-uri https://o1000929.ingest.sentry.io/api/5960429/security/?sentry_key=a9072c7b7a264a6e9c617a4fa5fa8ed9&sentry_environment=gitbook-x-prod&sentry_release=10.9.223;
+content-type: application/javascript
+date: Sun, 08 Jan 2023 21:46:57 GMT
+etag: W/"b22ca24d7c69842b6c1a38809996bb47"
+expires: Sun, 07 Jan 2024 21:34:21 GMT
+last-modified: Sat, 07 Jan 2023 17:09:47 GMT
+referrer-policy: no-referrer-when-downgrade
+server: cloudflare
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-goog-generation: 1673111387154539
+x-goog-hash: crc32c=4i1DXw==
+x-goog-hash: md5=siyiTXxphCtsGjiAmZa7Rw==
+x-goog-metageneration: 1
+x-goog-storage-class: STANDARD
+x-goog-stored-content-encoding: identity
+x-goog-stored-content-length: 3472337
+x-guploader-uploadid: ADPycduzGYZRCe479VuPNO-XRMP_pCJNP281U6M6DLhAUxxFFxZ-YZMgft68YD1_4T-hqUHPpt2inSmwS-umlAUpduJo7A
+x-powered-by: GitBook
+:authority: app.gitbook.com
+:method: GET
+:path: /public/app/chunks/chunk-TL6ARHSV.min.js
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+dnt: 1
+origin: https://docs.coredao.org
+referer: https://app.gitbook.com/public/app/public-N46JFA4I.min.js?v=10.9.223-bdce8e5d40d0f07dbe822af5d8e7cce835913050-3863060075
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Microsoft Edge";v="108"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: script
+sec-fetch-mode: cors
+sec-fetch-site: cross-site
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76
+﻿
+user-guide-for-core-testnet:6466 [Intervention] Images loaded lazily and replaced with placeholders. Load events are deferred. See https://go.micr
