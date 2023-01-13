@@ -1,0 +1,2 @@
+- name: Get Solc
+  uses: pontem-network/get-solc@v0.1.1
