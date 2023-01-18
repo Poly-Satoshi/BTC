@@ -1,0 +1,41 @@
+Request URL: https://collector.github.com/github/collect
+Request Method: POST
+Status Code: 204 
+Remote Address: [2607:7700:0:38:0:1:8c52:7115]:443
+Referrer Policy: no-referrer-when-downgrade
+access-control-allow-credentials: true
+access-control-allow-headers: Content-Type
+access-control-allow-methods: POST,OPTIONS
+access-control-allow-origin: *
+cache-control: no-cache
+date: Wed, 18 Jan 2023 02:39:28 GMT
+strict-transport-security: max-age=631138519
+x-content-type-options: nosniff
+x-download-options: noopen
+x-frame-options: DENY
+x-github-backend: Kubernetes
+x-github-request-id: 8A8C:3D76:1E721:2FAC83:63C75BD6
+x-permitted-cross-domain-policies: none
+x-request-id: 3bb553d3-cddc-40cd-bee8-1f9062e082b4
+x-runtime: 0.014839
+x-xss-protection: 1; mode=block
+:authority: collector.github.com
+:method: POST
+:path: /github/collect
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+content-length: 1238
+content-type: text/plain;charset=UTF-8
+cookie: _octo=GH1.1.1564964309.1668716027; logged_in=yes; dotcom_user=MyloCyrus; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; preferred_color_mode=light; tz=America%2FLos_Angeles
+dnt: 1
+origin: https://github.com
+referer: https://github.com/HeartChain/BTC/blob/main/gitcoin.gitignore_global
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Microsoft Edge";v="108"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: no-cors
+sec-fetch-site: same-site
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76
