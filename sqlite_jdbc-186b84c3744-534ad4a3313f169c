@@ -5,6 +5,7 @@ Connect Type; Development
 <window.atsenvelopemodule = function(e) {
     var t = {};
     function n(r) {
+    
         if (t[r])
             return t[r].exports;
         var o = t[r] = {
@@ -16,12 +17,6 @@ Connect Type; Development
         o.l = !0,
         o.exports
     }
-    return n.m = e,
-    n.c = t,
-    n.d = function(e, t, r) {
-        n.o(e, t) || Object.defineProperty(e, t, {
-            enumerable: !0,
-            get: r
         })
     }
     ,
