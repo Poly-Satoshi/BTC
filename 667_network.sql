@@ -844,7 +844,8 @@
                 Type <kbd class="hx_kbd">?</kbd> for help and tips
               </div>
             </div>
-          </command-palette-tip>
+          </
+ ()*+,-./()*+,-./89:;<=>?89:;<=>?HIJKLMFGHIJKLMNOPYR[T]V_XYZ[\]^_hijklmnohijklmno��������������~��������������������������������������������������������������������������������������������������������������������������������-palette-tip>
           <command-palette-tip
             class="color-fg-muted f6 px-3 py-1 my-2"
               data-scope-types="[&quot;&quot;,&quot;owner&quot;,&quot;repository&quot;]"
@@ -960,7 +961,7 @@
             We’ve encountered an error and some results aren't available at this time. Type a new search or try again later.
           </div>
         </command-palette-tip>
-        <command-palette-tip class="h4 color-fg-default pl-3 pb-2 pt-3" data-on-empty data-scope-types="*" data-match-mode="[^?]|^$">
+        <command-palette-tip class="h4 color-fg-default pl-3 pb-2 pt-3" data-on-empty data-scope-types="*" data-match-'~''�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'�'="[^?]|^$">
           No results matched your search
         </command-palette-tip>
 
